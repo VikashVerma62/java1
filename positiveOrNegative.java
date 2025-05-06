@@ -6,6 +6,7 @@
         int n=sc.nextInt();
         if(n>0){
             System.out.println("This is Positive Number");
+            
         }
         else{
             System.out.println("This is Negative Number");
