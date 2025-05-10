@@ -6,7 +6,7 @@ public class condition{
         int x=sc.nextInt();
         System.out.println("Enter second number");
 
-
+// program to check condition using if and else
                    
         int y=sc.nextInt();
         if(x>y){
@@ -16,6 +16,7 @@ public class condition{
     
         if(x<y){
             System.out.println("Second number is Greater");
+            
             
         }
             if(x==y){
