@@ -11,5 +11,6 @@
         int lastDigit2=n2%10;
         int sum=lastDigit1+lastDigit2;
         System.out.println("sum of last digit is:"+sum);
+
     }
  }
